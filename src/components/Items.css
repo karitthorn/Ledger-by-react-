@@ -1,0 +1,21 @@
+.item{
+    color: rgb(255, 81, 0);
+}
+.coolblue{
+    color: rgb(0, 80, 252);
+}
+
+.expense{
+    padding: 3px;
+    background-color: aliceblue;
+    border-right: 3px solid rgb(180, 2, 2);
+    margin-bottom: 10px ;
+}
+
+.income{
+    
+    padding: 3px;
+    background-color: aliceblue;
+    border-right: 3px solid rgb(51, 139, 0);
+    margin-bottom: 10px ;
+}
